@@ -1,0 +1,10 @@
+[project]
+name = "llm-music-emotion-analysis"
+version = "0.1.0"
+description = "LLM-Augmented Emotional Analysis Model with Music Semantic Vector Learning"
+readme = "README.md"
+requires-python = ">=3.14"
+authors = [
+    { name = "ventisca-CN", email = "2021691413@qq.com" },
+]
+dependencies = []
